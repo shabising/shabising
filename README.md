@@ -46,9 +46,4 @@
 - 📧 Email: shabismanova127@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/shabnam-osmanova-158b33329  
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true" />
-</p>
