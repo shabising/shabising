@@ -14,7 +14,7 @@ HTML • CSS • JavaScript
 (Not used)
 
 **Tools:**  
-Git • GitHub • VS Code
+GitHub • VS Code
 
 
 ## Projects
