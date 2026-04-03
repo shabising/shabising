@@ -1,34 +1,54 @@
-# Hi, I'm Shabnam 👋
+<h1 align="center">Hi 👋, I'm Shabnam</h1>
+<h3 align="center">Front-End Developer • Building real-world projects with HTML, CSS & JavaScript</h3>
 
-Frontend Developer • Building real projects with HTML, CSS & JavaScript
+---
 
-## Tech Stack
+## 🧠 About Me
+- 💻 Front-End Developer focused on building clean and responsive interfaces  
+- 🚀 Actively improving my skills by working on real projects  
+- 🎯 Goal: Become a professional Software Developer  
 
-**Languages:**  
-HTML • CSS • JavaScript
+---
 
-**Frameworks / Libraries:**  
-(Not used)
+## 🛠 Tech Stack
 
-**Databases:**  
-(Not used)
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-**Tools:**  
-GitHub • VS Code
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-## Projects
+---
 
-### 1. A news website
-- Simple responsive news platform  
-- Tech: HTML, CSS, JavaScript  
-- [Demo](#)
-- Lets users read and browse latest news
+## 🚀 Projects
 
-## Current Focus
+### 🔹 News Website
+- 📝 Description: A simple and responsive news platform  
+- ⚙️ Tech: HTML, CSS, JavaScript  
+- ✨ Features: Clean layout, responsive design, easy navigation  
+- 🔗 Demo: https://shabising.github.io/404NEWS/
+- 💡 Purpose: Allows users to read and browse latest news  
 
-Improving JavaScript, building small frontend projects, and learning responsive design.
+---
 
-## Contact
+## 📚 Current Focus
+- Improving JavaScript skills  
+- Building small front-end projects  
+- Learning responsive design in depth  
 
-Email: shabismanova127@gmail.com  
-LinkedIn: www.linkedin.com/in/shabnam-osmanova-158b33329
+---
+
+## 📫 Contact
+- 📧 Email: shabismanova127@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/shabnam-osmanova-158b33329  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true" />
+</p>
