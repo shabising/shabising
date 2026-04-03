@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Shabnam 👋
 
-<!--
-**shabising/shabising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer • Building real projects with HTML, CSS & JavaScript
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**  
+HTML • CSS • JavaScript
+
+**Frameworks / Libraries:**  
+(Not used)
+
+**Databases:**  
+(Not used)
+
+**Tools:**  
+Git • GitHub • VS Code
+
+
+## Projects
+
+### 1. A news website
+- Simple responsive news platform  
+- Tech: HTML, CSS, JavaScript  
+- [Demo](#)
+- Lets users read and browse latest news
+
+## Current Focus
+
+Improving JavaScript, building small frontend projects, and learning responsive design.
+
+---
+
+## Contact
+
+Email: shabismanova127@gmail.com  
+LinkedIn: www.linkedin.com/in/shabnam-osmanova-158b33329
