@@ -4,7 +4,7 @@
 ---
 
 ## 🧠 About Me
-- 💻 Front-End Developer focused on building clean and responsive interfaces  
+- 💻 Frontend Developer focused on building clean and responsive interfaces  
 - 🚀 Actively improving my skills by working on real projects  
 - 🎯 Goal: Become a professional Software Developer  
 
